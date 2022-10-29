@@ -1,0 +1,15 @@
+C:\Users\Informant\source\repos\START_Progect\START_Progect\bin\Debug\net6.0\START_Progect.exe
+C:\Users\Informant\source\repos\START_Progect\START_Progect\bin\Debug\net6.0\START_Progect.deps.json
+C:\Users\Informant\source\repos\START_Progect\START_Progect\bin\Debug\net6.0\START_Progect.runtimeconfig.json
+C:\Users\Informant\source\repos\START_Progect\START_Progect\bin\Debug\net6.0\START_Progect.dll
+C:\Users\Informant\source\repos\START_Progect\START_Progect\bin\Debug\net6.0\START_Progect.pdb
+C:\Users\Informant\source\repos\START_Progect\START_Progect\obj\Debug\net6.0\START_Progect.csproj.AssemblyReference.cache
+C:\Users\Informant\source\repos\START_Progect\START_Progect\obj\Debug\net6.0\START_Progect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Informant\source\repos\START_Progect\START_Progect\obj\Debug\net6.0\START_Progect.AssemblyInfoInputs.cache
+C:\Users\Informant\source\repos\START_Progect\START_Progect\obj\Debug\net6.0\START_Progect.AssemblyInfo.cs
+C:\Users\Informant\source\repos\START_Progect\START_Progect\obj\Debug\net6.0\START_Progect.csproj.CoreCompileInputs.cache
+C:\Users\Informant\source\repos\START_Progect\START_Progect\obj\Debug\net6.0\START_Progect.dll
+C:\Users\Informant\source\repos\START_Progect\START_Progect\obj\Debug\net6.0\refint\START_Progect.dll
+C:\Users\Informant\source\repos\START_Progect\START_Progect\obj\Debug\net6.0\START_Progect.pdb
+C:\Users\Informant\source\repos\START_Progect\START_Progect\obj\Debug\net6.0\START_Progect.genruntimeconfig.cache
+C:\Users\Informant\source\repos\START_Progect\START_Progect\obj\Debug\net6.0\ref\START_Progect.dll
